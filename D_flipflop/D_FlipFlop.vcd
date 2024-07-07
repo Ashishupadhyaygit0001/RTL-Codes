@@ -1,0 +1,77 @@
+$date
+	Sun Jul 07 14:22:08 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module dff $end
+$var wire 1 ! q $end
+$var wire 1 " qbar $end
+$var reg 1 # clk $end
+$var reg 1 $ d $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x$
+0#
+x"
+x!
+$end
+#5
+1#
+#10
+0#
+0$
+#15
+1"
+0!
+1#
+#20
+0#
+1$
+#25
+0"
+1!
+1#
+#30
+0#
+0$
+#35
+1"
+0!
+1#
+#40
+0#
+1$
+#45
+0"
+1!
+1#
+#50
+0#
+0$
+#55
+1"
+0!
+1#
+#60
+0#
+1$
+#65
+0"
+1!
+1#
+#70
+0#
+0$
+#75
+1"
+0!
+1#
+#80
+0#
+1$
